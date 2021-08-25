@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ara/!svn/ver/2464/Software/AraFiltering/trunk/cmake/Modules
+END
+Findzlib.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/Findzlib.cmake
+END
+MacroCheckPackageVersion.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/MacroCheckPackageVersion.cmake
+END
+FindROOT_old.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/FindROOT_old.cmake
+END
+FindlibRootFftwWrapper.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/FindlibRootFftwWrapper.cmake
+END
+FindROOT.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/FindROOT.cmake
+END
+Findsqlite3.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/Findsqlite3.cmake
+END
+MacroCheckPackageLibs.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/MacroCheckPackageLibs.cmake
+END
+FindAraEvent.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ara/!svn/ver/2464/Software/AraFiltering/trunk/cmake/Modules/FindAraEvent.cmake
+END
+AraRootCMakeLists.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/AraRootCMakeLists.cmake
+END
+FindFFTW.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/FindFFTW.cmake
+END
+FindAraRoot.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ara/!svn/ver/2410/Software/AraFiltering/trunk/cmake/Modules/FindAraRoot.cmake
+END
+FindAraDisplay.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ara/!svn/ver/2464/Software/AraFiltering/trunk/cmake/Modules/FindAraDisplay.cmake
+END
